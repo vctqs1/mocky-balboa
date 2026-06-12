@@ -1,5 +1,15 @@
 # @mocky-balboa/playwright
 
+## 2.0.2
+
+### Patch Changes
+
+- [1bf4bbd](https://github.com/mocky-balboa/mocky-balboa/commit/1bf4bbdd7ac9c606c6ec23587966d1c16e789cc3): Fix `Error: WebSocket is not connected` raised when the client attempted to send messages before the underlying WebSocket connection had been established.
+- Updated dependencies [[1bf4bbd](https://github.com/mocky-balboa/mocky-balboa/commit/1bf4bbdd7ac9c606c6ec23587966d1c16e789cc3)]
+- Updated dependencies [[1bf4bbd](https://github.com/mocky-balboa/mocky-balboa/commit/1bf4bbdd7ac9c606c6ec23587966d1c16e789cc3)]
+- Updated dependencies [[1bf4bbd](https://github.com/mocky-balboa/mocky-balboa/commit/1bf4bbdd7ac9c606c6ec23587966d1c16e789cc3)]
+  - [@mocky-balboa/client@2.1.0](https://github.com/mocky-balboa/mocky-balboa/releases/tag/%40mocky-balboa%2Fclient%402.1.0)
+
 ## 2.0.1
 
 ### Patch Changes

@@ -1,5 +1,14 @@
 # @mocky-balboa/next-js
 
+## 1.2.6
+
+### Patch Changes
+
+- Updated dependencies [[1bf4bbd](https://github.com/mocky-balboa/mocky-balboa/commit/1bf4bbdd7ac9c606c6ec23587966d1c16e789cc3)]
+- Updated dependencies [[1bf4bbd](https://github.com/mocky-balboa/mocky-balboa/commit/1bf4bbdd7ac9c606c6ec23587966d1c16e789cc3)]
+  - [@mocky-balboa/server@1.0.10](https://github.com/mocky-balboa/mocky-balboa/releases/tag/%40mocky-balboa%2Fserver%401.0.10)
+  - [@mocky-balboa/cli-utils@1.0.4](https://github.com/mocky-balboa/mocky-balboa/releases/tag/%40mocky-balboa%2Fcli-utils%401.0.4)
+
 ## 1.2.5
 
 ### Patch Changes

@@ -1,5 +1,14 @@
 # @mocky-balboa/server
 
+## 1.0.10
+
+### Patch Changes
+
+- [1bf4bbd](https://github.com/mocky-balboa/mocky-balboa/commit/1bf4bbdd7ac9c606c6ec23587966d1c16e789cc3): Bump runtime dependency `uuid` from 8.3.2 to 14.0.0.
+- [1bf4bbd](https://github.com/mocky-balboa/mocky-balboa/commit/1bf4bbdd7ac9c606c6ec23587966d1c16e789cc3): Bump runtime dependency `ws` from 7.5.10 to 8.20.1.
+- Updated dependencies [[1bf4bbd](https://github.com/mocky-balboa/mocky-balboa/commit/1bf4bbdd7ac9c606c6ec23587966d1c16e789cc3)]
+  - [@mocky-balboa/websocket-messages@1.0.9](https://github.com/mocky-balboa/mocky-balboa/releases/tag/%40mocky-balboa%2Fwebsocket-messages%401.0.9)
+
 ## 1.0.9
 
 ### Patch Changes

@@ -1,5 +1,12 @@
 # @mocky-balboa/sveltekit
 
+## 1.0.4
+
+### Patch Changes
+
+- [@mocky-balboa/cli-utils@1.0.4](https://github.com/mocky-balboa/mocky-balboa/releases/tag/%40mocky-balboa%2Fcli-utils%401.0.4)
+- [@mocky-balboa/vite@1.0.4](https://github.com/mocky-balboa/mocky-balboa/releases/tag/%40mocky-balboa%2Fvite%401.0.4)
+
 ## 1.0.3
 
 ### Patch Changes

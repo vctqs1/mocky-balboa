@@ -1,6 +1,6 @@
 {
   "name": "@mocky-balboa/nuxt",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Nuxt integration for Mocky Balboa. Mock your full-stack network requests in your test suites.",
   "type": "module",
   "homepage": "https://docs.mockybalboa.com",
@@ -76,7 +76,7 @@
     "@types/node": "catalog:",
     "concurrently": "catalog:",
     "h3": "^1.15.4",
-    "nitropack": "^2.12.4",
+    "nitropack": "^2.12.8",
     "nuxt": "^4.1.1",
     "rimraf": "catalog:",
     "typescript": "catalog:"

@@ -1,5 +1,18 @@
 # @mocky-balboa/client
 
+## 2.1.0
+
+### Minor Changes
+
+- [1bf4bbd](https://github.com/mocky-balboa/mocky-balboa/commit/1bf4bbdd7ac9c606c6ec23587966d1c16e789cc3): Add `client.setHandlerPriority('last-registered-wins')` to invert the default overlapping handler priority order so the most recently registered handler wins matches against earlier registrations.
+
+### Patch Changes
+
+- [1bf4bbd](https://github.com/mocky-balboa/mocky-balboa/commit/1bf4bbdd7ac9c606c6ec23587966d1c16e789cc3): Bump runtime dependency `uuid` from 8.3.2 to 14.0.0.
+- [1bf4bbd](https://github.com/mocky-balboa/mocky-balboa/commit/1bf4bbdd7ac9c606c6ec23587966d1c16e789cc3): Fix `Error: WebSocket is not connected` raised when the client attempted to send messages before the underlying WebSocket connection had been established.
+- Updated dependencies [[1bf4bbd](https://github.com/mocky-balboa/mocky-balboa/commit/1bf4bbdd7ac9c606c6ec23587966d1c16e789cc3)]
+  - [@mocky-balboa/websocket-messages@1.0.9](https://github.com/mocky-balboa/mocky-balboa/releases/tag/%40mocky-balboa%2Fwebsocket-messages%401.0.9)
+
 ## 2.0.1
 
 ### Patch Changes

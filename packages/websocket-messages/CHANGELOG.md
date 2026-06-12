@@ -1,5 +1,11 @@
 # @mocky-balboa/websocket-messages
 
+## 1.0.9
+
+### Patch Changes
+
+- [1bf4bbd](https://github.com/mocky-balboa/mocky-balboa/commit/1bf4bbdd7ac9c606c6ec23587966d1c16e789cc3): Bump runtime dependency `uuid` from 8.3.2 to 14.0.0.
+
 ## 1.0.8
 
 ### Patch Changes
